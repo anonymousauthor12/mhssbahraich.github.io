@@ -1,0 +1,30 @@
+.hed{
+    position: relative;
+  }
+  #main_page{
+    background-color:  rgb(18, 111, 125, 0.663);
+    padding-left: 10%;
+  
+    border: groove;
+  }
+  .main_page{
+    margin-left: 4%;
+    padding-right: 4%;
+  }
+  .last{
+    background-color:  rgb(18, 111, 125, 0.663);
+  }
+  #img1{
+    width: 90%;
+  }
+  #school_name1,#school_Address1{
+    color: white;
+  }
+  a{
+    color: rgb(15, 15, 15);
+  }
+  .la{
+    border: groove;
+    padding: 20px;
+    text-align: center;
+  }
